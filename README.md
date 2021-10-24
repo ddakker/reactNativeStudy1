@@ -1,4 +1,6 @@
 # React Native Test
+일반 화면 및 REST API(HTTP) 호출
+
 ## 셋팅 시점 환경
 * node - v14.18.1
 * yarn - 1.22.15
